@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.card {
+    box-shadow: 10px 10px 5px darkblue;
+    border-radius: 15px;
+}
+
+.btn {
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: darkblue; 
+  color: white;
+}

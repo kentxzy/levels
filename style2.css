@@ -1,0 +1,12 @@
+.card {
+    border-radius: 15px;
+}
+
+.btn {
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: darkblue; 
+  color: white;
+}
